@@ -40,3 +40,12 @@ print(supply_apy, borrow_apy)
 
 ```
 
+
+## howto install
+
+```shell
+pip install peotry
+poetry build 
+poetry publish
+
+```
